@@ -1,0 +1,2 @@
+Implementation of cut-cell discontinuous Galerkin difference method - https://github.com/OptimalDesignLab/MISO/tree/cut-cell-dev
+A differentiated version of high-order cut-cell quadrature algorithm (https://algoim.github.io/) by Robert Saye  - https://github.com/OptimalDesignLab/algoim/tree/quad_duals
